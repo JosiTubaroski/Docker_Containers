@@ -6,7 +6,7 @@ Listando os containers, no prompt de comando com o docker aberto em execução, 
 
 - Lista de containeirs atualmente em execução na maquina.
 
-<img src="https://github.com/JosiTubaroski/Airflow_Preparar_Ambiente/blob/main/img/Docker_Windows.png">
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/01_Lista_Containers.png">
 
 
 
