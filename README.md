@@ -12,5 +12,9 @@
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/02_Nomeando_Conteiners.png">
 
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/03_Container_Criado.png">
+
+
+
 
 
