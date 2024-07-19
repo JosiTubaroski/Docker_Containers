@@ -20,6 +20,16 @@
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/04_Logs_Containers.png">
 
+2.2 - Utilizando a opção -f
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/05_docker_logs_F.png">
+
+2.3 - Utilizando o timestamp para verificar os logs
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/06_docker_logs_t.png">
+
+
+
 
 
 
