@@ -36,6 +36,10 @@ Comando para realizar o mapeamento de portas.
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/07_Mapeando_Portas.png">
 
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/08_Acessando_Aplicacao.png">
+
+
+
 
 
 
