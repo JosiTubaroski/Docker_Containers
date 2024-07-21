@@ -32,7 +32,7 @@
 
 3.1 - Mapeando Portas
 
-- Comando para realizar o mapeamento de portas.
+- Comando para realizar o mapeamento de portas (Tudo que chegar na porta 80 do pc será redirecionado para a porta 3000 do docker).
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/07_Mapeando_Portas.png">
 
@@ -43,6 +43,12 @@
 - Conteiner criado com o nome incluido.
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/09_App_Map_Ports.png">
+
+- Verificando as portas do conteiner por comando.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/10_Docker_ps_MapPorts.png">
+
+
 
 
 
