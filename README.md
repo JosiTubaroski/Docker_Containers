@@ -28,6 +28,15 @@
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/06_docker_logs_t.png">
 
+## 03. Publicando portas de acesso.
+
+3.1 - Mapeando Portas
+
+Comando para realizar o mapeamento de portas.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/07_Mapeando_Portas.png">
+
+
 
 
 
