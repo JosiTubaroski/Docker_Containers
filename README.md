@@ -32,11 +32,17 @@
 
 3.1 - Mapeando Portas
 
-Comando para realizar o mapeamento de portas.
+- Comando para realizar o mapeamento de portas.
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/07_Mapeando_Portas.png">
 
+- Aplicação em execução
+
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/08_Acessando_Aplicacao.png">
+
+- Conteiner criado com o nome incluido.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/09_App_Map_Ports.png">
 
 
 
