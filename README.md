@@ -48,6 +48,7 @@
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/10_Docker_ps_MapPorts.png">
 
+## 04. Executando comandos em containers
 
 
 
