@@ -66,6 +66,12 @@
 
 <img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/13_Docker_Start.png">
 
+## 06. Removendo Containers
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/14_Docker_Rm.png">
+
+
+
 
 
 
