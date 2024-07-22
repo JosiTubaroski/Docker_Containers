@@ -56,6 +56,19 @@
 
 <b>Observação:</b> Utilizar sempre o docker exec nome_do_conteiner e o comando.
 
+## 05. Iniciando e parando containers
+
+5.1 Parando um conteiner que está em execução.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/12_Docker_Stop.png">
+
+5.2 Iniciando um conteiner que está parado.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/13_Docker_Start.png">
+
+
+
+
 
 
 
