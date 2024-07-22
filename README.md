@@ -50,6 +50,13 @@
 
 ## 04. Executando comandos em containers
 
+4.1 - Verificando os arquivos dentro do conteiner, a partir do terminal da máquina.
+
+<img src="https://github.com/JosiTubaroski/Docker_Containers/blob/main/img/11_Comandos_ls.png">
+
+<b>Observação:</b> Utilizar sempre o docker exec nome_do_conteiner e o comando.
+
+
 
 
 
